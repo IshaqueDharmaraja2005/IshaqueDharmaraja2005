@@ -6,29 +6,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/light.svg">
   <img alt="Ishaque Dharmaraja R — Developer Profile" src="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/light.svg" width="100%">
 </picture>
-<br>
-<br>
-
----
-
-## 👻 Pac-Man Contribution Graph
-
-<div align="center">
-
-<!-- PAC-MAN - Dark/Light Aware -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man eating contribution graph" src="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/pacman-contribution-graph.svg" width="100%">
-</picture>
 
 <br>
+<br>
 
-<sub>🍒 Watch Pac-Man gobble up your GitHub contributions!</sub>
-
-</div>
-
----
 <!-- BADGES -->
 <img src="https://img.shields.io/badge/Status-Active-22D3EE?style=flat-square&logo=github" alt="Status">
 <img src="https://img.shields.io/badge/Version-1.0.0-22D3EE?style=flat-square&logo=github" alt="Version">
@@ -109,6 +90,25 @@ I'm an **AI & Data Science graduate** passionate about building modern web and m
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## 👻 Pac-Man Contribution Graph
+
+<div align="center">
+
+<!-- PAC-MAN - Dark/Light Aware -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating contribution graph" src="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+
+<br>
+
+<sub>🍒 Watch Pac-Man gobble up your GitHub contributions!</sub>
 
 </div>
 
