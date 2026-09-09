@@ -1,9 +1,11 @@
-name: generate arcade contribution graphs
+name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Run daily
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
   generate:
@@ -12,13 +14,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - name: generate contribution graph SVGs
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Pac-Man contribution graph
+        uses: abozanona/pacman-contribution-graph@v2.0.0  # Using fixed version
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman,breakout'  # Can generate both!
+          games: 'pacman'
+          # Force ghost to chase Pac-Man properly
+          ghost_difficulty: 'hard'
 
-      - name: push SVGs to the output branch
+      - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
