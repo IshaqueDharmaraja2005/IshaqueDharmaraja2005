@@ -1,9 +1,11 @@
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/github-snake-dark.svg" />
+</picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" 
 </picture>
   <img alt="Ishaque Dharmaraja R — Developer Profile" src="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/light.svg">
   <source media="(prefers-color-scheme: dark)"
