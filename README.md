@@ -1,134 +1,175 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/light.svg">
-  <source media="(prefers-color-scheme: dark)" 
-</picture>
-  <img alt="Ishaque Dharmaraja R — Developer Profile" src="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/light.svg">
-  <source media="(prefers-color-scheme: dark)"
-</picture>
-
-</div>
-
-<br/>
-
-## About Me
-
-I'm an AI & Data Science graduate and developer interested in building modern web applications, mobile applications, and intelligent software. I'm currently focused on strengthening my full-stack and backend engineering skills through hands-on projects.
-
-- 🔭 Currently building projects across Full-Stack, Mobile, and AI/DS
-- 🌱 Learning: backend architecture, APIs, and applied machine learning
-- 💬 Ask me about: Flutter, Python, and web development
-- 📫 Reach me: **ishaquedharmaraja.r@gmail.com**
-
-<br/>
-
-## Technical Skills
-
-**Languages**
-`Python` `Dart` `JavaScript` `C++`
-
-**Frontend**
-`HTML` `CSS` `JavaScript` `React`
-
-**Mobile**
-`Flutter` `Dart` `Android`
-
-**Backend**
-`Python` `FastAPI` `Node.js` `Express.js` `REST APIs`
-
-**AI / Data Science**
-`Python` `Machine Learning` `Data Analysis`
-
-**Database**
-`PostgreSQL` `MySQL` `Firebase`
-
-**Tools / DevOps**
-`Git` `GitHub` `GitHub Actions` `CI/CD` `Vercel`
-
-> **Note to self before publishing:** only keep the rows above you can back up with a real project. Delete anything you can't demonstrate if someone asks about it in an interview.
-
-<br/>
-
-## Featured Projects
-
 <!--
-  Honest status check: your public repos right now (firstwebsite, validation-forms,
-  crypto-currency, and a couple of near-duplicate versions of each) are early practice
-  repos, not portfolio-ready projects. Listing them here as "Featured" would undercut
-  the professional framing the rest of this README builds. Two honest paths:
-
-  Path A (recommended): spend a weekend turning ONE of these into something real —
-  e.g. rebuild crypto-currency as a small full-stack app with a FastAPI backend and a
-  real API, or turn firstwebsite into an actual portfolio site with a working contact
-  form. One genuinely finished project beats six exercises.
-
-  Path B (temporary, while you build Path A): list what you have honestly, framed as
-  learning exercises rather than flagship work, and remove this whole section once
-  you have 2-3 real projects. Recruiters respect "here's what I'm actively building"
-  far less than they respect silence + a strong project a month later.
-
-  Fill in the row below once you've picked a real direction -- don't publish the
-  placeholder text as-is.
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ███████╗██╗  ██╗███████╗██╗   ██╗ █████╗ ██████╗ ██╗   ██╗  ║
+║   ██╔════╝██║  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗╚██╗ ██╔╝  ║
+║   ███████╗███████║█████╗  ██║   ██║███████║██║  ██║ ╚████╔╝   ║
+║   ╚════██║██╔══██║██╔══╝  ╚██╗ ██╔╝██╔══██║██║  ██║  ╚██╔╝    ║
+║   ███████║██║  ██║███████╗ ╚████╔╝ ██║  ██║██████╔╝   ██║     ║
+║   ╚══════╝╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═════╝    ╚═╝     ║
+║                                                               ║
+║     Full-Stack Developer · AI/DS Engineer · App Creator      ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 -->
 
-| Project | Stack | What it does | Link |
-|---|---|---|---|
-| _Your flagship full-stack project_ | _e.g. React · FastAPI · PostgreSQL_ | _One sentence: the problem it solves_ | [repo](https://github.com/IshaqueDharmaraja2005/REPLACE_ME) |
-| _Your best Flutter/mobile app_ | _e.g. Flutter · Firebase_ | _One sentence: the problem it solves_ | [repo](https://github.com/IshaqueDharmaraja2005/REPLACE_ME) |
-| _An AI/DS project_ | _e.g. Python · scikit-learn_ | _One sentence: the problem it solves_ | [repo](https://github.com/IshaqueDharmaraja2005/REPLACE_ME) |
-
-<br/>
-
-## GitHub Statistics
-
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=IshaqueDharmaraja2005&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub streak stats" />
-
-<br/>
-
-<img width="49%" src="https://YOUR-STATS-INSTANCE.vercel.app/api?username=IshaqueDharmaraja2005&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub stats" />
-<img width="49%" src="https://YOUR-STATS-INSTANCE.vercel.app/api/top-langs/?username=IshaqueDharmaraja2005&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top languages" />
-
-</div>
-
-> Replace `YOUR-STATS-INSTANCE` with your self-hosted Vercel URL from Phase 2 below. Until then these two cards will 404 — leave the streak card as-is, it uses the public `streak-stats.demolab.com` service which isn't rate-limited the same way.
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
+<!-- THEME-AWARE BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/light.svg">
+  <img alt="Ishaque Dharmaraja R — Developer Profile Banner" src="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/light.svg" width="100%">
 </picture>
 
+<!-- BADGES SECTION -->
+<br>
+<img src="https://img.shields.io/badge/Status-Active-22D3EE?style=flat-square&logo=github" alt="Status">
+<img src="https://img.shields.io/badge/Version-1.0.0-22D3EE?style=flat-square&logo=github" alt="Version">
+<img src="https://img.shields.io/badge/License-MIT-22D3EE?style=flat-square&logo=github" alt="License">
+<img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square&logo=github" alt="PRs Welcome">
+<img src="https://img.shields.io/badge/Made_with-❤️-ff69b4?style=flat-square" alt="Made with love">
+<br>
+<img src="https://img.shields.io/badge/Built%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Built%20with-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/Built%20with-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Built%20with-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+
+<br>
+<br>
+<strong style="font-size: 1.2em;">⚡ Enterprise-Grade Solutions · AI-Driven Innovation · Cross-Platform Excellence ⚡</strong>
+
 </div>
 
-> ⚠️ Don't add this block until the `snake.yml` Action has run successfully once (see Phase 3 below) — the `output` branch doesn't exist before that, and the image will show broken.
+---
 
-<br/>
+## 📑 Table of Contents
 
-## Connect
+<details open>
+<summary><strong>Click to expand navigation</strong></summary>
+<br>
+
+- [🧑‍💻 About Me](#-about-me)
+- [🛠️ Technical Expertise](#%EF%B8%8F-technical-expertise)
+- [🚀 Featured Projects](#-featured-projects)
+- [📊 GitHub Analytics](#-github-analytics)
+- [👻 Interactive Contribution Graph](#-interactive-contribution-graph)
+- [📈 Performance Metrics](#-performance-metrics)
+- [🤝 Connect & Collaborate](#-connect--collaborate)
+- [📜 License & Attribution](#-license--attribution)
+
+</details>
+
+---
+
+## 🧑‍💻 About Me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/ishaquedharmaraja/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/ishaque_._/">
-  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:ishaquedharmaraja.r@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
-</a>
-
+  <blockquote>
+    <p><em>"Building the future, one commit at a time."</em></p>
+  </blockquote>
 </div>
+
+I'm **Ishaque Dharmaraja R**, an **AI & Data Science graduate** with a relentless passion for architecting modern digital experiences. My expertise spans the full spectrum of software engineering — from elegant frontend interfaces to robust backend systems and intelligent AI solutions.
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🎯 **Core Philosophy**
+- **Quality over Quantity**: Clean, maintainable, and well-documented code
+- **User-Centric Design**: Solutions that prioritize user experience
+- **Continuous Learning**: Always exploring emerging technologies
+- **Open Source Advocacy**: Giving back to the developer community
+
+</td>
+<td width="50%">
+
+### 📌 **Current Focus**
+- 🔭 Building **production-grade full-stack applications**
+- 🌱 Mastering **system architecture & cloud deployment**
+- 🤖 Exploring **applied machine learning & MLOps**
+- 📱 Expanding **Flutter ecosystem expertise**
+
+</td>
+</tr>
+</table>
+
+| Aspect | Details |
+|--------|---------|
+| **🎓 Education** | AI & Data Science Graduate |
+| **🌍 Location** | India |
+| **💼 Role** | Full-Stack Developer · App Developer · AI Enthusiast |
+| **🚀 Status** | Actively Building & Learning |
+
+<br>
+
+<details>
+<summary><strong>📬 Get in Touch</strong></summary>
+<br>
+
+- **📧 Email**: [ishaquedharmaraja.r@gmail.com](mailto:ishaquedharmaraja.r@gmail.com)
+- **💼 LinkedIn**: [linkedin.com/in/ishaquedharmaraja](https://linkedin.com/in/ishaquedharmaraja)
+- **🐙 GitHub**: [github.com/IshaqueDharmaraja2005](https://github.com/IshaqueDharmaraja2005)
+- **📸 Instagram**: [@ishaque_._](https://instagram.com/ishaque_._)
+
+</details>
+
+---
+
+## 🛠️ Technical Expertise
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Category</strong></td>
+      <td align="center"><strong>Technologies</strong></td>
+      <td align="center"><strong>Proficiency</strong></td>
+    </tr>
+    <tr>
+      <td><strong>🔤 Languages</strong></td>
+      <td><code>Python</code> <code>Dart</code> <code>JavaScript</code> <code>C++</code></td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>🎨 Frontend</strong></td>
+      <td><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>React</code></td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>📱 Mobile</strong></td>
+      <td><code>Flutter</code> <code>Dart</code></td>
+      <td>⭐⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>⚙️ Backend</strong></td>
+      <td><code>Python</code> <code>FastAPI</code> <code>Node.js</code> <code>Express.js</code></td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>🧠 AI/DS</strong></td>
+      <td><code>Python</code> <code>Machine Learning</code> <code>Data Analysis</code></td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>🗄️ Database</strong></td>
+      <td><code>PostgreSQL</code> <code>MySQL</code> <code>Firebase</code></td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+    <tr>
+      <td><strong>🛠️ DevOps</strong></td>
+      <td><code>Git</code> <code>GitHub Actions</code> <code>CI/CD</code> <code>Vercel</code></td>
+      <td>⭐⭐⭐⭐</td>
+    </tr>
+  </table>
+</div>
+
+<details>
+<summary><strong>🔧 Technology Stack Deep Dive</strong></summary>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+### **Frontend Ecosystem**
