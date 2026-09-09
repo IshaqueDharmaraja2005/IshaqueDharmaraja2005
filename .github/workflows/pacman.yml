@@ -14,15 +14,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - name: Generate Pac-Man contribution graph
-        uses: abozanona/pacman-contribution-graph@v2.0.0  # Using fixed version
+      - name: Generate Pac-Man graph with fixed ghosts
+        uses: Platane/snk@v3  # This uses the updated code
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
-          # Force ghost to chase Pac-Man properly
-          ghost_difficulty: 'hard'
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github&color_snake=#FFD700
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#FFD700
 
-      - name: Push SVGs to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
