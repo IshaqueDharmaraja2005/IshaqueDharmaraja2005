@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Version-1.0.0-22D3EE?style=flat-square&logo=github" alt="Version">
 <img src="https://img.shields.io/badge/License-MIT-22D3EE?style=flat-square&logo=github" alt="License">
 <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square&logo=github" alt="PRs Welcome">
-<img src="https://img.shields.io/badge/Made_with-❤️-ff69b4?style=flat-square" alt="Made with love">
+<img src="https://img.shields.io/badge/Made_with-🖤-ff69b4?style=flat-square" alt="Made with love">
 <br>
 <img src="https://img.shields.io/badge/Built%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Built%20with-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
