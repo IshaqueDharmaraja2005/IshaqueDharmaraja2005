@@ -53,7 +53,7 @@
 - [🛠️ Technical Expertise](#%EF%B8%8F-technical-expertise)
 - [🚀 Featured Projects](#-featured-projects)
 - [📊 GitHub Analytics](#-github-analytics)
-- [👻 Interactive Contribution Graph](#-interactive-contribution-graph)
+- [👻 Pac-Man Contribution Graph](#-pac-man-contribution-graph)
 - [📈 Performance Metrics](#-performance-metrics)
 - [🤝 Connect & Collaborate](#-connect--collaborate)
 - [📜 License & Attribution](#-license--attribution)
