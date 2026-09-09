@@ -2,9 +2,9 @@
 
 <!-- THEME-AWARE BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/light.svg">
-  <img alt="Ishaque Dharmaraja R — Developer Profile" src="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/main/light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/IshaqueDharmaraja2005/IshaqueDharmaraja2005/output/github-snake.svg" />
 </picture>
 
 <br>
